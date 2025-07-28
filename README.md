@@ -1,6 +1,6 @@
 # 🛒 E-commerce Sales & Customer Analysis using SQL And Python
 
-![E-Commerce Sales Dashboard](Screenshot%202025-06-09%20210552.png)
+![E-Commerce Sales Dashboard](1703121210_e-commerce.png)
 
 This project demonstrates a deep dive into customer behavior, order trends, sales performance, and retention using **advanced SQL techniques** on an e-commerce dataset.
 
